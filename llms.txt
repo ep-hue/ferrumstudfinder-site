@@ -7,3 +7,9 @@
 - Page: https://ferrumstudfinder.com/
 - App Store: https://apps.apple.com/us/app/id6802032570
 - Contact: ferrum@tommano.com
+
+## Guides
+- [Do stud finder apps really work on an iPhone?](https://ferrumstudfinder.com/guides/do-stud-finder-apps-work/): Stud finder apps work for one thing: finding the steel screws and nails in a stud with the iPhone's magnetometer. Here is what they can and cannot detect, with our own test numbers.
+- [How to find a stud without a stud finder](https://ferrumstudfinder.com/guides/find-a-stud-without-a-stud-finder/): Six ways to find a wall stud without a stud finder: outlets and switches, measuring from a corner, trim nails, the knock test, a magnet, and your phone's magnetometer.
+- [Best stud finder app, or a real stud finder? How to choose](https://ferrumstudfinder.com/guides/stud-finder-app-vs-stud-finder/): What makes a stud finder app good, and when a real stud finder is the better buy. A phone app, a magnetic finder, an electronic finder and a wall scanner each detect different things.
+- [How to find wires in a wall before you drill](https://ferrumstudfinder.com/guides/find-live-wires-in-a-wall/): Where cables usually run, which tools detect them, and what an iPhone can and cannot tell you about live wiring behind a wall. A phone senses flowing current, not the wire itself.
