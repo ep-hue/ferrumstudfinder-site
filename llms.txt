@@ -1,0 +1,9 @@
+# Ferrum: Stud Finder & Metal
+
+> Ferrum is an iPhone app (iOS 17 or later) by 55DIGITS LLC that uses the phone's magnetometer to find ferrous metal behind walls: the screws or nails that hold a wooden stud, steel framing and pipes, live wiring that is carrying current, and lost iron or steel objects. $4.99 once on the US App Store; no subscription, no in-app purchases, no ads. No data collected; works offline.
+
+- Does: four modes — Stud, Wire (50/60 Hz current that is flowing), Metal, Recovery (Max Hold).
+- Does not: detect gold, silver, copper, aluminum, brass or plastic; measure depth; see a cable with no current; see wood itself.
+- Page: https://ferrumstudfinder.com/
+- App Store: https://apps.apple.com/us/app/id6802032570
+- Contact: ferrum@tommano.com
